@@ -1,0 +1,20 @@
+{
+  "name": "rangaswamy-reactapp",
+  "version": "1.0.0",
+  "description": "this is my first reactapp",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "reactapp",
+    "jsx"
+  ],
+  "author": "Rangaswamy Challa",
+  "license": "ISC",
+  "dependencies": {
+    "D": "^1.0.0",
+    "parcel": "^2.9.3"
+  }
+}
