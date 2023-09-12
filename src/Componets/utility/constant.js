@@ -1,0 +1,2 @@
+export const SITE_LOGO = "https://img.freepik.com/premium-vector/r-letter-logo-r-food-letter-logo_449603-122.jpg?w=90";
+export const PRODUCT_IMG_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";

@@ -1,0 +1,56 @@
+.my-div{
+        color: blue;
+}
+
+.header{
+        padding: 30px;
+        background-color:  #4831D4;
+       display: flex;
+}
+
+.body{
+
+        padding: 30px;
+        background-color:  #CCF381;
+        height: auto;
+}
+
+.footer{
+        padding: 30px;
+        background-color:  #4831D4;
+        text-align: center;
+        color: aliceblue;
+}
+
+
+li{
+        display: inline;
+       list-style-type: none;
+       margin: 15px;
+       color: aliceblue;
+       font-size: larger;
+
+}
+
+.resto{
+
+        height: auto;
+        background-color: aliceblue;
+        width: 302px;
+        border: #4831D4 1px solid;
+        margin: 10px;
+       
+}
+
+.resto-container{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+
+}
+
+.shimmer-container{
+
+        display: grid;
+        
+}
